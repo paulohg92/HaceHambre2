@@ -1,4 +1,6 @@
 <resources>
     <string name="app_name">Hace Hambre 2</string>
+    <string name="facebook_app_id">1817867885151094</string>
     <string name="title_activity_maps">Hace Hambre</string>
+    <string name="google_app_id">AIzaSyAQBGGxsuyDbdk7UBFgJwCD7QHgtXy2GhA</string>
 </resources>
